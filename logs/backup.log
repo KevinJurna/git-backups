@@ -1,0 +1,21 @@
+[Tue Nov 11 11:23:51 AM EET 2025] Alustan varundamist...
+tar: Removing leading `/' from member names
+tar: /home/kevin/.cache/ibus/dbus-M8prDI00: socket ignored
+tar: /home/kevin/.cache/ibus/dbus-UeA1UkHL: socket ignored
+tar: /home/kevin/.cache/ibus/dbus-5srSNFAK: socket ignored
+[Tue Nov 11 11:23:54 AM EET 2025] Varundamine õnnestus: backup_2025-11-11_11-23-51.tar.gz
+fatal: not a git repository (or any of the parent directories): .git
+[Tue Nov 11 11:30:51 AM EET 2025] Alustan varundamist...
+tar: Removing leading `/' from member names
+tar: /home/kevin/.cache/ibus/dbus-M8prDI00: socket ignored
+tar: /home/kevin/.cache/ibus/dbus-UeA1UkHL: socket ignored
+tar: /home/kevin/.cache/ibus/dbus-5srSNFAK: socket ignored
+[Tue Nov 11 11:30:55 AM EET 2025] Varundamine õnnestus: backup_2025-11-11_11-30-51.tar.gz
+fatal: not a git repository (or any of the parent directories): .git
+[Tue Nov 11 11:31:23 AM EET 2025] Alustan varundamist...
+tar: Removing leading `/' from member names
+tar: /home/kevin/.cache/ibus/dbus-M8prDI00: socket ignored
+tar: /home/kevin/.cache/ibus/dbus-UeA1UkHL: socket ignored
+tar: /home/kevin/.cache/ibus/dbus-5srSNFAK: socket ignored
+[Tue Nov 11 11:31:28 AM EET 2025] Varundamine õnnestus: backup_2025-11-11_11-31-23.tar.gz
+fatal: not a git repository (or any of the parent directories): .git
